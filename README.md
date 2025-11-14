@@ -1,10 +1,10 @@
-- 👋 Hi, I’m LGFF
+- 👋 Hi, I’m Ibrahim
 - 👀 I’m interested in collab
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I know c++, Assembly and python 
+- 💞️ I’m looking to collaborate on ...any machine related work that could help me gain experience 
 - 📫 How to reach me ffirelovers35@gmail.com
 - 😄 Pronouns: Male
-- ⚡ Fun fact: Fast learner even I studied  biology and now in comouter science
+- ⚡ Fun fact: Best problem solver declared in university 
 
 <!---
 LGFF123/LGFF123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
